@@ -1,0 +1,8 @@
+com\telcel\r2\asistencias\bean\AsistenciaLoader.class
+com\telcel\r2\asistencias\exceptions\InvalidFileException.class
+com\telcel\r2\asistencias\Main.class
+com\telcel\r2\asistencias\entities\Asistencia_.class
+com\telcel\r2\asistencias\daos\AsistenciaDAO.class
+com\telcel\r2\asistencias\entities\Asistencia.class
+.netbeans_automatic_build
+com\telcel\r2\asistencias\utils\excel\ExcelFormatReader.class
